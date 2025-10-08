@@ -1,5 +1,5 @@
 ## What’s up? I’m Gals — just a friendly face saying hello to the world!👋
-![Gals18](img/header.png)
+![Gals18](img/header.gif)
 
 Here are some ideas to get you started:
 
