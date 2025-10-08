@@ -2,13 +2,13 @@
 ![Gals18](img/header.gif)
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on fun web projects using Laravel, Phalcon, and Docker — where creativity meets clean code!
-- 🌱 I’m currently learning more about backend optimization and cool API integrations.
-- 👯 I’m looking to collaborate on open-source or community projects related to web dev.
-- 🤔 I’m looking for help with exploring DevOps workflows and deployment automation.
-- 💬 Ask me about Laravel, Docker, APIs, or anything about coding (and maybe coffee ☕).
-- 📫 How to reach me: Just ping me here — always happy to chat!
+- 🔭 I’m currently working on simple but fun web projects using **Laravel**, **Phalcon**, and **Docker** — still learning as I go!
+- 🌱 I’m currently exploring more about backend development and how APIs really work.
+- 👯 I’d love to collaborate or share ideas with fellow learners in web development.
+- 🤔 I’m looking for guidance and inspiration to improve my coding workflow.
+- 💬 Ask me about my learning journey, or let’s just talk about code (and coffee ☕).
+- 📫 How to reach me: You can find me here on GitHub — always happy to connect!
 😄 Pronouns: She/Her
 ⚡ Fun fact: 🎧 When the code stops, the music starts.
+
 
